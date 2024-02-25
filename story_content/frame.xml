@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="Features of gas exchange surfaces" />
+              <option name="title_text" value="Blood Vessels 2" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -27,12 +27,12 @@
           <optionlist name="tabs">
             <listitems>
               <listitem name="resources" value="false" group="linkright" />
-              <listitem name="outline" value="false" group="sidebar" />
+              <listitem name="outline" value="true" group="sidebar" />
               <listitem name="glossary" value="false" group="sidebar" />
               <listitem name="transcript" value="false" group="sidebar" />
             </listitems>
           </optionlist>
-          <option name="time_enabled" value="false">
+          <option name="time_enabled" value="true">
             <options>
               <option name="time_format" value="elapsed" />
             </options>
@@ -1269,40 +1269,23 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6UaVZTYGbMM" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.6cQieS7PFTJ" displaytext="Untitled Scene" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6UaVZTYGbMM.5f0K0XfMh23" displaytext="Gas Exchange Surfaces" expand="false" type="slide" />
-            <slidelink slideid="_player.6UaVZTYGbMM.6SMBe5wAcGV" displaytext="Before you begin: Arrange these phrases to describe gas exchange." expand="false" type="slide" />
-            <slidelink slideid="_player.6UaVZTYGbMM.6NWyTbBxtiu" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6UaVZTYGbMM.6V7ig6K2t4Z" displaytext="Which alveolar sac has the least perfusion?" expand="false" type="slide" />
-            <slidelink slideid="_player.6UaVZTYGbMM.5XAYBd0Dy1O" displaytext="Drag and Drop" expand="false" type="slide" />
-            <slidelink slideid="_player.6UaVZTYGbMM.61uwoQeuFA0" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6UaVZTYGbMM.6XAAKTH26Ph" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6UaVZTYGbMM.6GXRCJ8v4zA" displaytext="Click on the fluid inside the alveolus" expand="false" type="slide" />
-            <slidelink slideid="_player.6UaVZTYGbMM.5aBQ0A2WD3w" displaytext="The fluid in the alveolus allows oxygen to _______________&#xA;&#xA; so it can diffuse through the barrier into the blood." expand="false" type="slide" />
-            <slidelink slideid="_player.6UaVZTYGbMM.6X0zmPnePWn" displaytext="Which label shows the fluid in the alveolus?" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.5h8WYOeKdTu" displaytext="Features of gas exchange surfaces" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.5h8WYOeKdTu.6nJz4Zodwmt" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.5h8WYOeKdTu.6ZcH2n4HwPh" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6UaVZTYGbMM.68UZE0FvpQO" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6UaVZTYGbMM.6hyfus10G6s" displaytext="Diffusion distance" expand="false" type="slide" />
-            <slidelink slideid="_player.6UaVZTYGbMM.5YYTps48j5l" displaytext="The lining of the alveolus is only ______________ cell thick." expand="false" type="slide" />
-            <slidelink slideid="_player.6UaVZTYGbMM.6U8eJdOKL60" displaytext="The number of cells between the blood (in the capillary) and the air (in the alveolus) is ________." expand="false" type="slide" />
-            <slidelink slideid="_player.6UaVZTYGbMM.5xMHFNSVDXA" displaytext="Select all correct answers…&#xA;The thin gas exchange surface means that… " expand="false" type="slide" />
-            <slidelink slideid="_player.6UaVZTYGbMM.5gNLkrB3Z0K" displaytext="Hotspot" expand="false" type="slide" />
-            <slidelink slideid="_player.6UaVZTYGbMM.5vCHEqcxZe4" displaytext="Hotspot" expand="false" type="slide" />
-            <slidelink slideid="_player.6UaVZTYGbMM.5aknt0Kekd1" displaytext="Hotspot" expand="false" type="slide" />
-            <slidelink slideid="_player.6UaVZTYGbMM.6RP3j8aOkw7" displaytext="Hotspot" expand="false" type="slide" />
-            <slidelink slideid="_player.6UaVZTYGbMM.62yr4yGYOEz" displaytext="Hotspot" expand="false" type="slide" />
-            <slidelink slideid="_player.6UaVZTYGbMM.6VkZgJsccVb" displaytext="Hotspot" expand="false" type="slide" />
-            <slidelink slideid="_player.6UaVZTYGbMM.5dObNUcUKeW" displaytext="Hotspot" expand="false" type="slide" />
-            <slidelink slideid="_player.6UaVZTYGbMM.6aDUDuDYlOv" displaytext="Hotspot" expand="false" type="slide" />
-            <slidelink slideid="_player.6UaVZTYGbMM.61Fm09fJw9S" displaytext="Hotspot" expand="false" type="slide" />
-            <slidelink slideid="_player.6UaVZTYGbMM.5o6hlUSjRC7" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6UaVZTYGbMM.66OGVURDcpt" displaytext="Drag and Drop" expand="false" type="slide" />
+            <slidelink slideid="_player.6cQieS7PFTJ.66mHee9hEZy" displaytext="Blood Vessels" expand="false" type="slide" />
+            <slidelink slideid="_player.6cQieS7PFTJ.6fp7Wv4UdTx" displaytext="Welcome" expand="false" type="slide" />
+            <slidelink slideid="_player.6cQieS7PFTJ.6Wzx9jyxMd4" displaytext="Welcome" expand="false" type="slide" />
+            <slidelink slideid="_player.6cQieS7PFTJ.6Q1ZmOyrVq0" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6cQieS7PFTJ.5fvZFzqBhj8" displaytext="Draw from Part1" expand="false" type="slide" />
+            <slidelink slideid="_player.6cQieS7PFTJ.6dN9Av1aBAs" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6cQieS7PFTJ.6LOOz4TycPi" displaytext="Draw from Part 2" expand="false" type="slide" />
+            <slidelink slideid="_player.6cQieS7PFTJ.6RkX14DvSlv" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6cQieS7PFTJ.6rKY6Gguicc" displaytext="Draw from part3" expand="false" type="slide" />
+            <slidelink slideid="_player.6cQieS7PFTJ.5Y1fwo32pJ3" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6cQieS7PFTJ.5cQOXvGiriE" displaytext="Draw from part 4" expand="false" type="slide" />
+            <slidelink slideid="_player.6cQieS7PFTJ.6phmq93MRSX" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6cQieS7PFTJ.5ZRAuG4mSgg" displaytext="Welcome" expand="false" type="slide" />
+            <slidelink slideid="_player.6cQieS7PFTJ.5sxR1bMae5r" displaytext="Welcome" expand="false" type="slide" />
+            <slidelink slideid="_player.6cQieS7PFTJ.6PNPMjCPMoV" displaytext="Draw from part 5" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
